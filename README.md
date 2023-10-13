@@ -2,7 +2,7 @@
 
 ===========================================================================<br>
 <p align="center">
- &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b> <br> 
+ &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b> <br> &#128640
   <b>NIM           :  312210300</b> <br>
   <b>Mata Kuliah   :  Pemrograman Web</b>
 </p>
