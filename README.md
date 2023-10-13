@@ -1,15 +1,5 @@
 # Pratikum1-HTML
 
-<<<<<<< HEAD
-==============================================================================================
-<p align="center">
-  <b>NAMA          :  CHAERUL HIDAYAT</b> <br>
-  <b>NIM           :  312210300</b> <br>
-  <b>Mata Kuliah   :  Pemrograman Web</b>
-</p>
-
-# TESSSSSSSSSS
-=======
 ===========================================================================<br>
 <p align="center">
  &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
