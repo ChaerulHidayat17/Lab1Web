@@ -1,9 +1,9 @@
 # Pratikum1-HTML
 
 ===========================================================================<br>
-=<p align="center">
-= &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
-=  &#128640<b>NIM           :  312210300</b>&#128640 <br>
-= &#128640<b>Mata Kuliah   :  Pemrograman Web</b>&#128640 <br?
-=</p>
+<p align="center">
+ &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
+  &#128640<b>NIM           :  312210300</b>&#128640 <br>
+ &#128640<b>Mata Kuliah   :  Pemrograman Web</b>&#128640 <br?
+</p>
 ===========================================================================<br><br>
