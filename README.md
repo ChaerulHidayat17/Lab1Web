@@ -13,3 +13,7 @@
 ![Gambar TAG HTML](<FOTO README/code1.png>) <br>
 # Dan ini adalah hasil nya 
 ![Hasil Gambar Tag HTML](<FOTO README/code2.png>)<br>
+# Dan disini saya coba ubah menjadi tag html yang salah 
+![TAH HTML YG SALAH](<FOTO README/code 3.png>) <br>
+# Dan ini adalah hasil gambar dari tag html yg salah
+![Gambar TAG HTML yang salah](<FOTO README/code4.png>)<br>
