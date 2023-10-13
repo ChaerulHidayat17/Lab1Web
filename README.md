@@ -11,3 +11,5 @@
 
 # 1. Saya menampilkan kode dan foto jadi dari tag html yg bener 
 ![Gambar TAG HTML](<FOTO README/code1.png>) <br>
+# Dan ini adalah hasil nya 
+![Hasil Gambar Tag HTML](<FOTO README/code2.png>)<br>
