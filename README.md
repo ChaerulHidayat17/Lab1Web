@@ -17,3 +17,4 @@
 ![TAH HTML YG SALAH](<FOTO README/code 3.png>) <br>
 # Dan ini adalah hasil gambar dari tag html yg salah
 ![Gambar TAG HTML yang salah](<FOTO README/code4.png>)<br>
+# Dan hasil nya kelihatan di sini tag html yg salah menjadi teks biasa saja , sedangkan tag html yg bener menjadi sebuah heading ber alas bold.
